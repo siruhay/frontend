@@ -1,0 +1,1 @@
+import{_ as t,b as a,d as n,o as s,w as r}from"./App-B-dn1INl.js";const d={name:"foundation-dashboard"};function p(_,o,c,i,f,m){const e=n("page-home");return s(),a(e,{"page-name":"foundation-dashboard","page-title":"Untitled"},{default:r(()=>o[0]||(o[0]=[])),_:1})}const u=t(d,[["render",p]]);export{u as default};
