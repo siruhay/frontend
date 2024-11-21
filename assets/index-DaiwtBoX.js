@@ -1,0 +1,1 @@
+import{_ as o,b as a,w as n,d as s,o as r}from"./App-Cy0JRBLa.js";const p={name:"mytraining-dashboard"};function d(i,e,m,_,c,f){const t=s("page-home");return r(),a(t,{"page-name":"mytraining-dashboard","page-title":"Untitled"},{default:n(()=>e[0]||(e[0]=[])),_:1})}const g=o(p,[["render",d]]);export{g as default};
