@@ -1,1 +1,0 @@
-import{_ as o}from"./App-yS8o9LMX.js";import{_ as t,Y as r,Z as n}from"./vendor-CVOH1yJd.js";import"./vuetify-CGQDu4yV.js";import"./pdfjs-dist-cWKSalIg.js";import"./charts-CnSHDhrA.js";const p={name:"system-report"};function s(a,c,m,_,i,f){const e=r("page-blank");return n(),t(e,{"page-name":"system-report"})}const $=o(p,[["render",s]]);export{$ as default};
