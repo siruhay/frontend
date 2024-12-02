@@ -1,1 +1,0 @@
-import{_ as n,b as t,w as a,d as r,o as p}from"./App-bu-TtOVK.js";const s={name:"foundation-report"};function c(_,e,d,f,i,l){const o=r("page-blank");return p(),t(o,{"page-name":"foundation-report","page-key":"report"},{default:a(({record:m})=>e[0]||(e[0]=[])),_:1})}const k=n(s,[["render",c]]);export{k as default};

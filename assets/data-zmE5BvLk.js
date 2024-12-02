@@ -1,0 +1,1 @@
+import{_ as t}from"./App-yS8o9LMX.js";import{_ as a,Y as r,Z as n}from"./vendor-CVOH1yJd.js";import"./vuetify-CGQDu4yV.js";import"./pdfjs-dist-cWKSalIg.js";import"./charts-CnSHDhrA.js";const e={name:"account-notification-data"};function c(s,p,m,_,i,f){const o=r("form-data");return n(),a(o)}const k=t(e,[["render",c]]);export{k as default};

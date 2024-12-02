@@ -1,0 +1,1 @@
+import{_ as o}from"./App-yS8o9LMX.js";import{_ as r,Y as s,Z as t}from"./vendor-CVOH1yJd.js";import"./vuetify-CGQDu4yV.js";import"./pdfjs-dist-cWKSalIg.js";import"./charts-CnSHDhrA.js";const n={name:"system-user"};function p(a,c,m,_,i,u){const e=s("page-crud");return t(),r(e,{"page-name":"system-user","page-key":"user"})}const $=o(n,[["render",p]]);export{$ as default};

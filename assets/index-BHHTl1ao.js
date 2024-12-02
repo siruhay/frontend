@@ -1,1 +1,0 @@
-import{_ as t,c as n,r as o,o as a}from"./app-FUBSdQkH.js";const r={name:"training-committee"};function c(s,i,p,m,_,d){const e=o("page-crud");return a(),n(e,{"page-name":"training-committee","page-key":"committee","parent-name":"training-history","parent-key":"history"})}const f=t(r,[["render",c]]);export{f as default};

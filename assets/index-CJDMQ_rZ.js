@@ -1,1 +1,0 @@
-import{_ as o,c as r,r as t,o as a}from"./app-FUBSdQkH.js";const s={name:"system-operator"};function n(c,p,_,m,d,f){const e=t("page-crud");return a(),r(e,{"page-name":"system-operator","page-key":"operator"})}const i=o(s,[["render",n]]);export{i as default};

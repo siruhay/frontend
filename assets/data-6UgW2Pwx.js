@@ -1,1 +1,0 @@
-import{_ as e,c as s,w as a,r,o as n}from"./app-FUBSdQkH.js";const c={name:"system-user-crete"};function _(p,t,f,m,d,l){const o=r("form-data");return n(),s(o,null,{default:a(()=>t[0]||(t[0]=[])),_:1})}const i=e(c,[["render",_]]);export{i as default};

@@ -1,1 +1,0 @@
-import{_ as n,c as t,w as r,r as a,o as p}from"./app-FUBSdQkH.js";const s={name:"foundation-report"};function c(_,e,d,f,i,l){const o=a("page-blank");return p(),t(o,{"page-name":"foundation-report","page-key":"report"},{default:r(({record:m})=>e[0]||(e[0]=[])),_:1})}const k=n(s,[["render",c]]);export{k as default};

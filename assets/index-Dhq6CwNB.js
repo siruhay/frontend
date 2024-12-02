@@ -1,0 +1,1 @@
+import{_ as o}from"./App-yS8o9LMX.js";import{_ as t,Y as r,Z as a}from"./vendor-CVOH1yJd.js";import"./vuetify-CGQDu4yV.js";import"./pdfjs-dist-cWKSalIg.js";import"./charts-CnSHDhrA.js";const s={name:"system-auditor"};function n(p,c,m,_,i,d){const e=r("page-crud");return a(),t(e,{"page-name":"system-auditor","page-key":"auditor"})}const $=o(s,[["render",n]]);export{$ as default};

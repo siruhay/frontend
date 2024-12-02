@@ -1,0 +1,1 @@
+import{_ as e}from"./App-yS8o9LMX.js";import{_ as t,Y as s,Z as r}from"./vendor-CVOH1yJd.js";import"./vuetify-CGQDu4yV.js";import"./pdfjs-dist-cWKSalIg.js";import"./charts-CnSHDhrA.js";const a={name:"account-base"};function n(c,p,m,_,u,i){const o=s("user-base");return r(),t(o,{"module-name":"account"})}const x=e(a,[["render",n]]);export{x as default};
